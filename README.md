@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 Things you may want to cover:
 
-* Ruby version
+Ruby Version 5.0.1
 
-* System dependencies
+Instagram Wannabe App made by Dalton Varney
 
-* Configuration
+Tutorial followed: https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
-* Database creation
+Description:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Just a small web app similar to instagram made with Ruby on Rails. I named it "Dalstagram" because the name Instagram was already taken. 

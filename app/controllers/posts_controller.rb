@@ -21,7 +21,6 @@ class PostsController < ApplicationController
   		rendirect_ro new_post_path
   	end
   end
-
   private
   	def permit_post
   		params.require(:post).permit(:image,:description)
